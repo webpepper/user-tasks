@@ -1,0 +1,73 @@
+[
+    {
+        "firstname": "Anna",
+        "lastname": "Smith",
+        "age": 31,
+        "tasks": [
+            {
+                "title": "Milk cows", 
+                "description": "Perform the milking duties",
+                "score": 3.1
+            },
+            {
+                "title": "Eat an apple", 
+                "description": "Keep the doctors away",
+                "score": 5
+            },
+            {
+                "title": "Walk the dog", 
+                "description": "Let the pooch get some fresh air",
+                "score": 3.3
+            }
+        ]
+    },
+    {
+        "firstname": "Michael",
+        "lastname": "Jordan",
+        "age": 55,
+        "tasks": [
+            {
+                "title": "Morning workout", 
+                "description": "Start the day right",
+                "score": 5
+            },
+            {
+                "title": "Afternoon workout", 
+                "description": "Keep up the good work",
+                "score": 5
+            },
+            {
+                "title": "Evening workout", 
+                "description": "End the day on a good note",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "firstname": "Every",
+        "lastname": "Body",
+        "age": 22,
+        "tasks": [
+            {
+                "title": "Be smart", 
+                "description": "Read book and educate yourself",
+                "score": 4.9
+            },
+            {
+                "title": "Eat healthy food", 
+                "description": "Fuel your body with the right kind of fuel",
+                "score": 4.8
+            },
+            {
+                "title": "Sleep well", 
+                "description": "Sleep at least 7 hours every day",
+                "score": 3.3
+            },
+            {
+                "title": "Respect others", 
+                "description": "Treat others as you would want them to treat you",
+                "score": 3.3
+            }
+        ]
+    }    
+]
